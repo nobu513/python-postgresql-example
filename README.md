@@ -15,3 +15,4 @@ python で postgres を操作するコードのメモ
 - pytest
 - sqlchemy
 - postgresql
+- alembic
