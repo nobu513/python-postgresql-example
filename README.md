@@ -8,6 +8,7 @@ python で postgres を操作するコードのメモ
 - pytest ってコマンドを打って実装した機能が全部 PASS するところが見れれば OK.
 - とりあえず CRUD の機能だけあればいいかな
 - Docker を使って環境構築をする
+- migration 処理
 
 ### 学ぶこと
 
